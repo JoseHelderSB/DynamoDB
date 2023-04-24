@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "YUI"},
+                  "SongTitle": {"S": "feel my soul"},
+                  "AlbumTitle": {"S": "FROM ME TO YOU"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "YUI"},
+                  "SongTitle": {"S": "It's all too much"},
+                  "AlbumTitle": {"S": "HOLIDAYS IN THE SUN"},
+                  "SongYear": {"S": "2009"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "YUI"},
+                  "SongTitle": {"S": "Rolling star"},
+                  "AlbumTitle": {"S": "CAN'T BUY ME LOVE"},
+                  "SongYear": {"S": "2007"}
+                }
+            }
+        }
+      ]
+}
